@@ -1,0 +1,11 @@
+.header {
+    font-size:xx-large;
+    text-align: center;
+}
+
+#results {
+    position: relative;
+    text-align: center; 
+    background-color: pink;
+    
+}
